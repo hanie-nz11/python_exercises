@@ -1,0 +1,13 @@
+Customer : hani
+
+milk : 120
+panir : 80
+mast : 50
+shir : 90
+
+Total : 340
+--------------------------
+Customer : ali
+
+arde : 700
+Total : 700
